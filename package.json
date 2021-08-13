@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.0.1",
+    "concurrently": "^6.2.0",
+    "create-react-app": "^4.0.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.12",
+    "nodemon": "^2.0.7",
+    "react-hook-form": "^7.6.10",
+    "react-router-dom": "^5.2.0"
+  },
+  "name": "Todo",
+  "version": "1.0.0",
+  "main": "App.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node App.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
